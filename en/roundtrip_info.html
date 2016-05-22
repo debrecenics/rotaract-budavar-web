@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Budapest-Budavár Rotaract Club  | RoundTrip</title>
+<title>Budapest-Budavár Rotaract Club  | RoundTrip Registration</title>
 <link href="../css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (Bootstrap's JavaScript plugins) -->
 <script src="../js/jquery.min.js"></script>
@@ -25,32 +25,44 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <style>
 	.rrt-link {
-    text-align: center;
 		font-family: 'Bangers', serif;
 		font-size: 48px;
+		color: #000000;
 		text-shadow: 4px 4px 4px #aaa;
   }
 
-	.rrt-link:hover {
-    text-align: center;
-		font-family: 'Bangers', serif;
-		font-size: 48px;
-		color: #E7CF40;
-		text-shadow: 4px 4px 4px #aaa;
-  }
 </style>
 
 </head>
 <body>
+<!-- Facebook loader -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '545754518919904',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=545754518919904";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+</script>
 <!---->
 <div id="wrapper">
 <div class="header">
 	 <div class="container">
 		 <div class="languages">
-			<a href="roundtrip.html"><span class="hu"></span></a>
-			<a href="roundtrip.html"><span class="en"></span></a>
-			<a href="roundtrip.html"><span class="ge"></span></a>
-			<a href="roundtrip.html"><span class="es"></span></a>
+			<a href="roundtrip_info.html"><span class="hu"></span></a>
+			<a href="roundtrip_info.html"><span class="en"></span></a>
+			<a href="roundtrip_info.html"><span class="ge"></span></a>
+			<a href="roundtrip_info.html"><span class="es"></span></a>
 		 </div>
 		 <div class="logo logo-title">
 			 Budapest<b>Budavár</b>
@@ -80,17 +92,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="about">
 	 <div class="about-info">
 		 <div class="container">
-			 <a href="index.html">Home/</a><h2>Hungarian Rotaract Round Trip 2016</h2>
+			 <a href="roundtrip.html">Hungarian Rotaract Round Trip 2016/</a><h2>Information</h2>
 		 </div>
 	 </div>
 	 <div class="container">
 		 <div class="about-text">
-			 <div style="float:left; width: 50%; text-align: center;"><a href="roundtrip_info.html" class="rrt-link">Information</a>
-			 </div>
-			 <div style="float:right; width: 50%; text-align: center;"><a href="roundtrip_register.html" class="rrt-link">Register</a>
-			 </div>
-			 <img src="../images/rrt16.jpg" style="max-width:100%; max-height:100%; padding-bottom: 15px" />
-		 </div>
+			 <h6 class="rrt-link">Information</h6>
+        <div class="fb-page" data-href="https://www.facebook.com/ data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+     </div>
 	 </div>
 </div>
 <!----->
