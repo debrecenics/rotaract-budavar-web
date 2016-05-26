@@ -8,16 +8,66 @@ html, body {
     height: 100%;
 }
 
-.fb-post {
+.footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.rrt-link {
+  text-align: center;
+  font-family: 'Bangers', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.rrt-link:hover {
+  text-align: center;
+  font-family: 'Bangers', serif;
+  font-size: 48px;
+  color: #E7CF40;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.rrt {
+}
+
+.retro {
+  width: auto;
+  background: url("../images/rrt16_blur.jpeg");
+  -o-background-size:100% auto;
+  -webkit-background-size:100% auto;
+  -moz-background-size:100% auto;
+  background-size:100% auto;
+  background-color:rgba(255,0,0,0.5);
+  padding-top: 20px;
+  margin-top: 20px;
+  padding-bottom: 40px;
+  height: 100%;
+  text-align: center;
+}
+
+/*.fb-post {
+  margin: auto;
   width: 100%;
   text-align: center;
   margin-top: 20px;
 }
 
 .fb-page {
+  margin: auto;
   width: 100%;
   text-align: center;
   margin-top: 20px;
+}*/
+
+.fb-post,
+.fb-page,
+.fb-page span[style],
+.fb-page span iframe[style] {
+    position: inherit;
+    margin: 10px auto 10px auto;
+    width: 100%;
+    text-align: center;
 }
 
 .documents {
@@ -59,7 +109,7 @@ html, body {
 	height: 32px;
 }
 
-.sub-ge {
+.sub-de {
 	display: inline-block;
 	background: url(../../images/flags/shiny/32/Germany.png) no-repeat;
 	width: 32px;
@@ -87,7 +137,7 @@ html, body {
 	height: 32px;
 }
 
-.ge {
+.de {
 	display: inline-block;
 	background: url(../images/flags/shiny/32/Germany.png) no-repeat;
 	width: 32px;
@@ -204,7 +254,7 @@ font-weight:600;
 }
 .top-menu ul li.active a,.top-menu ul li a:hover{
 color:#6c6c6c;
-border-bottom:2.5px solid #33d6ff;
+border-top:10px solid #33d6ff;
 }
 .top-menu ul li.top-contact a{
 background: #66e0ff;
@@ -234,6 +284,7 @@ background: linear-gradient(to bottom,  #ffbd57 0%,#f88d02 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffbd57', endColorstr='#f88d02',GradientType=0 );
 }
 .top-menu ul li.top-contact a:hover{
+border-top:none;
 border-bottom:none;
 }
 /*----*/
@@ -480,7 +531,7 @@ margin-bottom:0.5em;
 }
 .about-text p {
 color:#7c7c7c;
-padding: 15px;
+margin: 15px;
 text-align: justify;
 text-justify: inter-word;
 font-size:1.2em;
@@ -1175,9 +1226,9 @@ margin: 1.5em 0 0 0;
 text-align: center;
 }
 .logo {
-width: 25%;
+width: 100%;
 float:none;
-margin:0 auto 1em auto;
+text-align: center
 }
 .top-menu {
 float: none;
@@ -1309,7 +1360,6 @@ text-align: left;
 float:none;
 }
 .top-menu ul{
-display:none;
 background:#252525;
 width:100%;
 float: right;
@@ -1357,7 +1407,7 @@ background:none;
 padding:0 0 10px 0;
 }
 .logo {
-width: 43%;
+width: 100%;
 margin: 0 auto;
 }
 .rslides h3 {
