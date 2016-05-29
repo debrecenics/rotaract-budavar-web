@@ -1,7 +1,7 @@
 HEADER="<!DOCTYPE html>
 <html>
 <head>
-<title>Budapest-Budavár Rotaract Club  | $page ($simple_lang)</title>
+<title>Budapest-Budavár Rotaract Club  | $NAME</title>
 <link href=\"${relPath}css/bootstrap.css\" rel=\"stylesheet\" type=\"text/css\" />
 <!-- jQuery (Bootstrap's JavaScript plugins) -->
 <script src=\"${relPath}js/jquery.min.js\"></script>

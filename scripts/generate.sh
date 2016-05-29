@@ -6,11 +6,12 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 TARGET=$DIR/temp
 LOG=$DIR/log.log
 
+URL="http://budavar.rotaract.hu/"
 LANGAUGES="hu_HU,en_GB,es_ES,de_DE"
 DEFAULT_LANGUAGE="hu"
-MENUS="index,about,timeline,gallery,documents,contact,roundtrip"
+MENUS="index,about,timeline,gallery,contact,roundtrip"
 HIGHLIGHTED_MENU="roundtrip"
-PAGES="index,about,timeline,gallery,documents,contact,roundtrip,roundtrip_info,roundtrip_register"
+PAGES="index,about,timeline,gallery,contact,roundtrip,roundtrip_info,roundtrip_register"
 
 DEFAULT_IFS="@"
 
@@ -35,6 +36,7 @@ function prepareWorkspace {
   cp $DIR/../images $TARGET/images -r
   cp $DIR/../gallery $TARGET/gallery -r
   cp $DIR/../docs $TARGET/docs -r
+  cp $DIR/../google875daf95c813345c.html $TARGET/google875daf95c813345c.html
 }
 
 function toUpper {
@@ -170,8 +172,8 @@ function generatePageInLanguage {
 
   log "get content $page $simple_lang"
   BODY=$(getContent $page $simple_lang $langSelect $menuSelect)
-
-
+  
+  . $DIR/skeleton/$simple_lang/$page.sh
   . $DIR/skeleton/facebook.sh
   . $DIR/skeleton/footer.sh
   . $DIR/skeleton/header.sh
@@ -213,5 +215,39 @@ function generatePages {
   IFS=$OLD_IFS
 }
 
+function generateSiteMap {
+  sitemap="$TARGET/sitemap.xml"
+
+  local OLD_IFS=$IFS
+  IFS=','
+  read -r -a languages <<< "$LANGAUGES"
+  read -r -a pages <<< "$PAGES"
+  for language in "${languages[@]}"
+  do
+
+    language=$(echo "$language" | cut -c1-2)
+    if [ "$language" == "$DEFAULT_LANGUAGE" ]; then
+      language=""
+    else
+      language="$language/"
+    fi
+
+    for page in "${pages[@]}"
+    do
+      location="$URL$language$page.html"
+      lastmod=$(date +"%Y-%m-%dT%H:%M:%S%:z")
+      . $DIR/skeleton/sitemap/entry.sh
+      ENTRYLIST="$ENTRYLIST$ENTRY"
+    done
+  done
+
+  IFS=$OLD_IFS
+
+  . $DIR/skeleton/sitemap/content.sh
+  echo "$CONTENT" > $sitemap
+
+}
+
 prepareWorkspace
 generatePages
+generateSiteMap

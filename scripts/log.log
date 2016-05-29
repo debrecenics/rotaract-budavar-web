@@ -1,217 +1,192 @@
-2016-05-26_22-42-14 generatePage index
-2016-05-26_22-42-14 generatePageInLanguage index hu_HU
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/index.html
-2016-05-26_22-42-14 get content index hu
-2016-05-26_22-42-14 No navigation bar is required
-2016-05-26_22-42-14 generatePageInLanguage index en_GB
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/en/index.html
-2016-05-26_22-42-14 get content index en
-2016-05-26_22-42-14 No navigation bar is required
-2016-05-26_22-42-14 generatePageInLanguage index es_ES
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/es/index.html
-2016-05-26_22-42-14 get content index es
-2016-05-26_22-42-14 No navigation bar is required
-2016-05-26_22-42-14 generatePageInLanguage index de_DE
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/de/index.html
-2016-05-26_22-42-14 get content index de
-2016-05-26_22-42-14 No navigation bar is required
-2016-05-26_22-42-14 generatePage about
-2016-05-26_22-42-14 generatePageInLanguage about hu_HU
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/about.html
-2016-05-26_22-42-14 get content about hu
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-14 Parent is Kezdőlap name.
-2016-05-26_22-42-14 generatePageInLanguage about en_GB
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/en/about.html
-2016-05-26_22-42-14 get content about en
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-14 Parent is Home name.
-2016-05-26_22-42-14 generatePageInLanguage about es_ES
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/es/about.html
-2016-05-26_22-42-14 get content about es
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-14 Parent is Inicio name.
-2016-05-26_22-42-14 generatePageInLanguage about de_DE
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/de/about.html
-2016-05-26_22-42-14 get content about de
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-14 Parent is Home name.
-2016-05-26_22-42-14 generatePage timeline
-2016-05-26_22-42-14 generatePageInLanguage timeline hu_HU
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/timeline.html
-2016-05-26_22-42-14 get content timeline hu
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-14 Parent is Kezdőlap name.
-2016-05-26_22-42-14 generatePageInLanguage timeline en_GB
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/en/timeline.html
-2016-05-26_22-42-14 get content timeline en
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-14 Parent is Home name.
-2016-05-26_22-42-14 generatePageInLanguage timeline es_ES
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/es/timeline.html
-2016-05-26_22-42-14 get content timeline es
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-14 Parent is Inicio name.
-2016-05-26_22-42-14 generatePageInLanguage timeline de_DE
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/de/timeline.html
-2016-05-26_22-42-14 get content timeline de
-2016-05-26_22-42-14 Navigation bar is calculating
-2016-05-26_22-42-14 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-14 Parent is Home name.
-2016-05-26_22-42-14 generatePage gallery
-2016-05-26_22-42-14 generatePageInLanguage gallery hu_HU
-2016-05-26_22-42-14 Output: /var/www/html/scripts/temp/gallery.html
-2016-05-26_22-42-15 get content gallery hu
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-15 Parent is Kezdőlap name.
-2016-05-26_22-42-15 generatePageInLanguage gallery en_GB
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/en/gallery.html
-2016-05-26_22-42-15 get content gallery en
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePageInLanguage gallery es_ES
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/es/gallery.html
-2016-05-26_22-42-15 get content gallery es
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-15 Parent is Inicio name.
-2016-05-26_22-42-15 generatePageInLanguage gallery de_DE
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/de/gallery.html
-2016-05-26_22-42-15 get content gallery de
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePage documents
-2016-05-26_22-42-15 generatePageInLanguage documents hu_HU
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/documents.html
-2016-05-26_22-42-15 get content documents hu
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-15 Parent is Kezdőlap name.
-2016-05-26_22-42-15 generatePageInLanguage documents en_GB
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/en/documents.html
-2016-05-26_22-42-15 get content documents en
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePageInLanguage documents es_ES
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/es/documents.html
-2016-05-26_22-42-15 get content documents es
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-15 Parent is Inicio name.
-2016-05-26_22-42-15 generatePageInLanguage documents de_DE
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/de/documents.html
-2016-05-26_22-42-15 get content documents de
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePage contact
-2016-05-26_22-42-15 generatePageInLanguage contact hu_HU
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/contact.html
-2016-05-26_22-42-15 get content contact hu
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-15 Parent is Kezdőlap name.
-2016-05-26_22-42-15 generatePageInLanguage contact en_GB
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/en/contact.html
-2016-05-26_22-42-15 get content contact en
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePageInLanguage contact es_ES
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/es/contact.html
-2016-05-26_22-42-15 get content contact es
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-15 Parent is Inicio name.
-2016-05-26_22-42-15 generatePageInLanguage contact de_DE
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/de/contact.html
-2016-05-26_22-42-15 get content contact de
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-15 Parent is Home name.
-2016-05-26_22-42-15 generatePage roundtrip
-2016-05-26_22-42-15 generatePageInLanguage roundtrip hu_HU
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/roundtrip.html
-2016-05-26_22-42-15 get content roundtrip hu
-2016-05-26_22-42-15 Navigation bar is calculating
-2016-05-26_22-42-15 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
-2016-05-26_22-42-15 Parent is Kezdőlap name.
-2016-05-26_22-42-15 generatePageInLanguage roundtrip en_GB
-2016-05-26_22-42-15 Output: /var/www/html/scripts/temp/en/roundtrip.html
-2016-05-26_22-42-16 get content roundtrip en
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
-2016-05-26_22-42-16 Parent is Home name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip es_ES
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/es/roundtrip.html
-2016-05-26_22-42-16 get content roundtrip es
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
-2016-05-26_22-42-16 Parent is Inicio name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip de_DE
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/de/roundtrip.html
-2016-05-26_22-42-16 get content roundtrip de
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
-2016-05-26_22-42-16 Parent is Home name.
-2016-05-26_22-42-16 generatePage roundtrip_info
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_info hu_HU
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/roundtrip_info.html
-2016-05-26_22-42-16 get content roundtrip_info hu
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/hu/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_info en_GB
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/en/roundtrip_info.html
-2016-05-26_22-42-16 get content roundtrip_info en
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/en/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_info es_ES
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/es/roundtrip_info.html
-2016-05-26_22-42-16 get content roundtrip_info es
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/es/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_info de_DE
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/de/roundtrip_info.html
-2016-05-26_22-42-16 get content roundtrip_info de
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/de/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePage roundtrip_register
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_register hu_HU
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/roundtrip_register.html
-2016-05-26_22-42-16 get content roundtrip_register hu
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/hu/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_register en_GB
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/en/roundtrip_register.html
-2016-05-26_22-42-16 get content roundtrip_register en
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/en/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_register es_ES
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/es/roundtrip_register.html
-2016-05-26_22-42-16 get content roundtrip_register es
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/es/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
-2016-05-26_22-42-16 generatePageInLanguage roundtrip_register de_DE
-2016-05-26_22-42-16 Output: /var/www/html/scripts/temp/de/roundtrip_register.html
-2016-05-26_22-42-16 get content roundtrip_register de
-2016-05-26_22-42-16 Navigation bar is calculating
-2016-05-26_22-42-16 Parent is /var/www/html/scripts/skeleton/de/roundtrip.sh file.
-2016-05-26_22-42-16 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-09 generatePage index
+2016-05-29_16-35-09 generatePageInLanguage index hu_HU
+2016-05-29_16-35-09 Output: /var/www/html/scripts/temp/index.html
+2016-05-29_16-35-09 get content index hu
+2016-05-29_16-35-09 No navigation bar is required
+2016-05-29_16-35-09 generatePageInLanguage index en_GB
+2016-05-29_16-35-09 Output: /var/www/html/scripts/temp/en/index.html
+2016-05-29_16-35-09 get content index en
+2016-05-29_16-35-09 No navigation bar is required
+2016-05-29_16-35-09 generatePageInLanguage index es_ES
+2016-05-29_16-35-09 Output: /var/www/html/scripts/temp/es/index.html
+2016-05-29_16-35-10 get content index es
+2016-05-29_16-35-10 No navigation bar is required
+2016-05-29_16-35-10 generatePageInLanguage index de_DE
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/de/index.html
+2016-05-29_16-35-10 get content index de
+2016-05-29_16-35-10 No navigation bar is required
+2016-05-29_16-35-10 generatePage about
+2016-05-29_16-35-10 generatePageInLanguage about hu_HU
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/about.html
+2016-05-29_16-35-10 get content about hu
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
+2016-05-29_16-35-10 Parent is Kezdőlap name.
+2016-05-29_16-35-10 generatePageInLanguage about en_GB
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/en/about.html
+2016-05-29_16-35-10 get content about en
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
+2016-05-29_16-35-10 Parent is Home name.
+2016-05-29_16-35-10 generatePageInLanguage about es_ES
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/es/about.html
+2016-05-29_16-35-10 get content about es
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
+2016-05-29_16-35-10 Parent is Inicio name.
+2016-05-29_16-35-10 generatePageInLanguage about de_DE
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/de/about.html
+2016-05-29_16-35-10 get content about de
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
+2016-05-29_16-35-10 Parent is Home name.
+2016-05-29_16-35-10 generatePage timeline
+2016-05-29_16-35-10 generatePageInLanguage timeline hu_HU
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/timeline.html
+2016-05-29_16-35-10 get content timeline hu
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
+2016-05-29_16-35-10 Parent is Kezdőlap name.
+2016-05-29_16-35-10 generatePageInLanguage timeline en_GB
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/en/timeline.html
+2016-05-29_16-35-10 get content timeline en
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
+2016-05-29_16-35-10 Parent is Home name.
+2016-05-29_16-35-10 generatePageInLanguage timeline es_ES
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/es/timeline.html
+2016-05-29_16-35-10 get content timeline es
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
+2016-05-29_16-35-10 Parent is Inicio name.
+2016-05-29_16-35-10 generatePageInLanguage timeline de_DE
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/de/timeline.html
+2016-05-29_16-35-10 get content timeline de
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
+2016-05-29_16-35-10 Parent is Home name.
+2016-05-29_16-35-10 generatePage gallery
+2016-05-29_16-35-10 generatePageInLanguage gallery hu_HU
+2016-05-29_16-35-10 Output: /var/www/html/scripts/temp/gallery.html
+2016-05-29_16-35-10 get content gallery hu
+2016-05-29_16-35-10 Navigation bar is calculating
+2016-05-29_16-35-10 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
+2016-05-29_16-35-10 Parent is Kezdőlap name.
+2016-05-29_16-35-11 generatePageInLanguage gallery en_GB
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/en/gallery.html
+2016-05-29_16-35-11 get content gallery en
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePageInLanguage gallery es_ES
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/es/gallery.html
+2016-05-29_16-35-11 get content gallery es
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
+2016-05-29_16-35-11 Parent is Inicio name.
+2016-05-29_16-35-11 generatePageInLanguage gallery de_DE
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/de/gallery.html
+2016-05-29_16-35-11 get content gallery de
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePage contact
+2016-05-29_16-35-11 generatePageInLanguage contact hu_HU
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/contact.html
+2016-05-29_16-35-11 get content contact hu
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
+2016-05-29_16-35-11 Parent is Kezdőlap name.
+2016-05-29_16-35-11 generatePageInLanguage contact en_GB
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/en/contact.html
+2016-05-29_16-35-11 get content contact en
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePageInLanguage contact es_ES
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/es/contact.html
+2016-05-29_16-35-11 get content contact es
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
+2016-05-29_16-35-11 Parent is Inicio name.
+2016-05-29_16-35-11 generatePageInLanguage contact de_DE
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/de/contact.html
+2016-05-29_16-35-11 get content contact de
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePage roundtrip
+2016-05-29_16-35-11 generatePageInLanguage roundtrip hu_HU
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/roundtrip.html
+2016-05-29_16-35-11 get content roundtrip hu
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/hu/index.sh file.
+2016-05-29_16-35-11 Parent is Kezdőlap name.
+2016-05-29_16-35-11 generatePageInLanguage roundtrip en_GB
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/en/roundtrip.html
+2016-05-29_16-35-11 get content roundtrip en
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/en/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePageInLanguage roundtrip es_ES
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/es/roundtrip.html
+2016-05-29_16-35-11 get content roundtrip es
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/es/index.sh file.
+2016-05-29_16-35-11 Parent is Inicio name.
+2016-05-29_16-35-11 generatePageInLanguage roundtrip de_DE
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/de/roundtrip.html
+2016-05-29_16-35-11 get content roundtrip de
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-11 Parent is /var/www/html/scripts/skeleton/de/index.sh file.
+2016-05-29_16-35-11 Parent is Home name.
+2016-05-29_16-35-11 generatePage roundtrip_info
+2016-05-29_16-35-11 generatePageInLanguage roundtrip_info hu_HU
+2016-05-29_16-35-11 Output: /var/www/html/scripts/temp/roundtrip_info.html
+2016-05-29_16-35-11 get content roundtrip_info hu
+2016-05-29_16-35-11 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/hu/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_info en_GB
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/en/roundtrip_info.html
+2016-05-29_16-35-12 get content roundtrip_info en
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/en/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_info es_ES
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/es/roundtrip_info.html
+2016-05-29_16-35-12 get content roundtrip_info es
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/es/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_info de_DE
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/de/roundtrip_info.html
+2016-05-29_16-35-12 get content roundtrip_info de
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/de/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePage roundtrip_register
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_register hu_HU
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/roundtrip_register.html
+2016-05-29_16-35-12 get content roundtrip_register hu
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/hu/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_register en_GB
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/en/roundtrip_register.html
+2016-05-29_16-35-12 get content roundtrip_register en
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/en/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_register es_ES
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/es/roundtrip_register.html
+2016-05-29_16-35-12 get content roundtrip_register es
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/es/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
+2016-05-29_16-35-12 generatePageInLanguage roundtrip_register de_DE
+2016-05-29_16-35-12 Output: /var/www/html/scripts/temp/de/roundtrip_register.html
+2016-05-29_16-35-12 get content roundtrip_register de
+2016-05-29_16-35-12 Navigation bar is calculating
+2016-05-29_16-35-12 Parent is /var/www/html/scripts/skeleton/de/roundtrip.sh file.
+2016-05-29_16-35-12 Parent is ROTARACT ROUND-TRIP 2016 name.
