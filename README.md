@@ -1,6 +1,6 @@
 # Budapest Budavár Rotaract Club Website
 
-This is the source of the Website of Budapest-Budavár Rotaract Club, Hungary (https://budavar.rotaract.hu/). 
+This is the source of the Website of Budapest-Budavár Rotaract Club, Hungary (http://budavar.rotaract.hu/). 
 
 ## Build
 
